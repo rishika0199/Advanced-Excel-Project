@@ -1,5 +1,5 @@
 # Objective
-Develop a data driven solution that ingests UK accident records, transforms them into an interactive Power BI dashboard, and delivers actionable insights for policymakers and transport planners. The model quantifies casualty burdens, pinpoints high risk road types, highlights seasonal patterns, and guides interventions that reduce crashes, injuries, and costs nationwide.
+Develop a data driven solution that ingests USA accident records, transforms them into an interactive Power BI dashboard, and delivers actionable insights for policymakers and transport planners. The model quantifies casualty burdens, pinpoints high risk road types, highlights seasonal patterns, and guides interventions that reduce crashes, injuries, and costs nationwide.
 
 # Overview
 The project blends accident data with contextual attributes such as road geometry, weather, time and traffic controls to build a star schema model in Excel Power Pivot. KPI cards, heat maps and slicers reveal 417 k casualties across 267 k incidents while DAX measures drive smart filters by severity, geography and time.
